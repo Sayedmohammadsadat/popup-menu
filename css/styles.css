@@ -1,7 +1,7 @@
 
 ul{
     list-style-type: none;
-    background-color: #22438c;
+    background-color: #f0530a;
 }
 ul li{
     display: inline-block;
@@ -27,7 +27,7 @@ ul li ul.dropdown li{
 
 ul li ul.dropdown{
     width: 100%;
-    background-color: #22438c;
+    background-color: #f07909;
     position: absolute;
     z-index: 999;
     display: none;
@@ -35,7 +35,7 @@ ul li ul.dropdown{
 }
 
 ul li a:hover{
-    background-color: #112C66;
+    background-color: #e28148;
 
 }
 ul li:hover ul.dropdown{
